@@ -28,7 +28,7 @@ namespace Ghost
 
         static IPAddress host = IPAddress.Parse("127.0.0.1");
 
-        private const int port = 23;
+        private const int port = 755;
         static TcpClient client ;
         static NetworkStream stream;
 
